@@ -1,0 +1,7 @@
+{
+	"alphavantage": {
+		"api_key1": "PWVC8OPBKI6WDSBS",
+		"api_key2": "GLBATHC5RYJSB9B3",
+		"base_uri": "https://www.alphavantage.co/query"
+	}
+}
